@@ -1,0 +1,5 @@
+Tahapan Belajar GitHub:
+1. Belajar Repo
+2. Belajar Commit
+3. Belajar Branch
+4. Belajar Merge
